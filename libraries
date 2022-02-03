@@ -17,7 +17,7 @@
 #define PCD_RESETPHASE        0x0F               
 #define PCD_CALCCRC           0x03               
 
-//Mifare_One卡片命令字
+//Mifare_One
 #define PICC_REQIDL           0x26               
 #define PICC_REQALL           0x52               
 #define PICC_ANTICOLL         0x93               
